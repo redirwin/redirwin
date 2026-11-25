@@ -13,11 +13,11 @@ At Keypath Education, I develop shared Drupal features, contribute to CI/CD, and
 - **Software delivery:** CI/CD, release processes, and maintainable development workflows.
 - **AI-assisted engineering:** Reusable agent skills, shared project context, and disciplined code review.
 
-## Featured open-source work
+## Current project
 
-**[repo-agents-sync](https://github.com/redirwin/repo-agents-sync)**
+**Cortex 2.0** · In development
 
-A cross-platform toolkit for maintaining a single source of truth for repository-scoped AI agent skills, commands, rules, and MCP configuration across coding tools.
+A personal second brain designed to organize knowledge, project context, and reusable AI agent resources. Cortex will serve as the canonical source for coding-agent skills across projects, making them available through the Model Context Protocol (MCP).
 
 ## Connect
 
