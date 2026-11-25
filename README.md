@@ -15,7 +15,7 @@ At Keypath Education, I develop shared Drupal features, contribute to CI/CD, and
 
 ## Current projects
 
-**Cortex 2.0** · In development
+**Cortex 2.0 | In development** 
 
 Cortex is a personal second brain: a centralized repository and MCP server for memories, documents, files, and knowledge. It uses a flat information architecture organized by categories and tags rather than a fixed folder hierarchy.
 
