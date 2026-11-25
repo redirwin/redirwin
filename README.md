@@ -17,7 +17,9 @@ At Keypath Education, I develop shared Drupal features, contribute to CI/CD, and
 
 **Cortex 2.0** · In development
 
-A personal second brain designed to organize knowledge, project context, and reusable AI agent resources. Cortex will serve as the canonical source for coding-agent skills across projects, making them available through the Model Context Protocol (MCP).
+Cortex is a personal second brain: a centralized repository and MCP server for memories, documents, files, and knowledge. It uses a flat information architecture organized by categories and tags rather than a fixed folder hierarchy.
+
+Version 2.0 is designed to provide AI agents with relevant context across both personal and professional domains, from general knowledge and personal memories to project documentation, reusable skills, agent roles, and instructions. It serves as a canonical knowledge source accessible through the Model Context Protocol (MCP), independent of the agent harness or coding tool in use.
 
 ## Connect
 
